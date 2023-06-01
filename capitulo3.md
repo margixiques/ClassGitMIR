@@ -1,5 +1,0 @@
-# **capitulo3** Gestion de ramas
-
-El comando git branch te permite crear, enumerar y eliminar ramas, así como cambiar su nombre. No te permite cambiar entre ramas o volver a unir un historial bifurcado. Por este motivo, git branch está estrechamente integrado con los comandos:
-
-git checkout y git merge.
