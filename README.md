@@ -1,1 +1,2 @@
-# ClassGitMIR
+# ClassGitMIR 
+Luz Elena Realpe
