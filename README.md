@@ -1,3 +1,0 @@
-# ClassGitMIR
-
-# Margarita Xiques Machado
