@@ -1,6 +1,7 @@
-# Titulo
+# ClassGitMIR
 
-lorem ipsum
+# Margarita Rosa Xiques Machado
 
-## Nombre:
-**Estefania Osorio**
+# Estefania Osorio
+
+# Luz Elena Realpe
